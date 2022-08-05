@@ -1,3 +1,9 @@
+### Day 3: August 5, 2022
+**Today's Study**: Udemy course section 4 on conditional logic.
+
+**Notes:** 
+* Legit = (set it) vs. == (don't forget it).
+
 ### Day 2: August 4, 2022
 **Today's Study**: Finished Udemy course section 3 on functions through debugging assignment; read stack overflow on signed vs. unsigned integers.
 
