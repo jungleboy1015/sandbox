@@ -1,3 +1,9 @@
+### Day 5: August 8, 2022
+**Today's Study**: Udemy vids 36-47 on conditional logic, scope and arithmetic operators.
+
+**Notes:**
+* solidity can't return fractions - "5 / 7" will equal 0
+
 ### Day 4: August 7, 2022
 **Today's Study**: Udemy vids 34-35 on conditional logic.
 
