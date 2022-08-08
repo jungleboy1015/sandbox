@@ -3,6 +3,7 @@
 
 **Notes:**
 * solidity can't return fractions - "5 / 7" will equal 0
+* After this course, plan to spin through cryptozombies again.
 
 ### Day 4: August 7, 2022
 **Today's Study**: Udemy vids 34-35 on conditional logic.
