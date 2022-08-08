@@ -1,3 +1,6 @@
+### Day 4: August 7, 2022
+**Today's Study**: Udemy vids 34-35 on conditional logic.
+
 ### Day 3: August 5, 2022
 **Today's Study**: Udemy course section 4 on conditional logic.
 
