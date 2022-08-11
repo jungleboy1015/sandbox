@@ -1,3 +1,10 @@
+### Day 6: August 10, 2022
+**Today's Study**: Udemy vids 48-54 on comparison and logical operators.
+
+**Notes:**
+* Logical operators - && (and) || (or) ! (not)
+* Assignment operators - += is short hand for x + x + y
+
 ### Day 5: August 8, 2022
 **Today's Study**: Udemy vids 36-47 on conditional logic, scope and arithmetic operators.
 
