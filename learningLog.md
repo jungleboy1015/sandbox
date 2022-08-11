@@ -1,3 +1,6 @@
+### Day 7: August 11, 2022
+**Today's Study**: Udemy vids 55-57 on operators.  Just one note:  mod 0 causes a failed assert and uses all available gas - big problem.
+
 ### Day 6: August 10, 2022
 **Today's Study**: Udemy vids 48-54 on comparison and logical operators.
 
