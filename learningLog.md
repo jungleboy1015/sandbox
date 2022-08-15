@@ -1,3 +1,6 @@
+### Day 8: August 14, 2022
+**Today's Study**: Udemy vids 58-59 'for loops'
+
 ### Day 7: August 11, 2022
 **Today's Study**: Udemy vids 55-57 on operators.  Just one note:  mod 0 causes a failed assert and uses all available gas - big problem.
 
